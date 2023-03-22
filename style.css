@@ -10,6 +10,8 @@
         display: flex;
         flex-direction: row;
         align-items: center;
-        margin-bottom: 20px;
+        height: 400px;
+        min-width: 200px;
+ 
       }
       
