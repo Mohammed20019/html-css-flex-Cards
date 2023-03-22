@@ -5,19 +5,14 @@
 .paragrafo{
     text-align: center;
 }
-.div1
-    {
-        display: flex;
-        flex-direction: row wrap;
-        align-items: center;
-        height: 400px;
-        min-width: 200px;
- 
-      }
-.card{
+
+.contenitore-schede {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .scheda {
     width: 200px;
     height: 200px;
     margin: 10px;
-}
-      
-      
+  }
+  
